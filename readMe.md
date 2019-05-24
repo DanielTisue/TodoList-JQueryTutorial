@@ -4,14 +4,14 @@
 
 
 
-###### TO-DO List Summary:
+## TO-DO List Summary:
 
 * The plus icon will toggle 'Add To-Do' input.
 * When each To-Do is hovered over a trashcan icon will appear. 
 * When 'li' is clicked will toggle 'strike-through' to show item is completed.
 * When 'Trashcan icon' is clicked will delete 'To-Do' all together. 
 
-** ** Environment: 
+## Environment: 
 * Html, Css
 * JavaScript, ** **JQuery
 
